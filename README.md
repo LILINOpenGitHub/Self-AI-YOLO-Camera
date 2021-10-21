@@ -8,5 +8,16 @@ For more information, visit [here](http://ai.meritlilin.com.tw:3380/) for Self-t
 ## Train your YOLO AI dataset
 Please use this [CFG file](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/Yolo%20V3%20tiny%20model/GYNet_Traffic_Tiny_CFG_1.0.6.cfg) for training your AI dataset
 
+## Upload your YOLO weight/model
+After you have done the YOLO training for your dataset, upload these files:
+
+Your YOLO CFG file (*.cfg) is required.
+Your YOLO object list file (*.names) is required.
+Your YOLO weights file (*.weights) is required.
+Your partial training images (*.jpg) are required.
+Your partial training corresponding labels (*.txt) are required.
+Your logo(32*32) (*.png) is optional.
+
+![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/conversion.jpg)
 ## License unlocking key
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/license.jpg)
