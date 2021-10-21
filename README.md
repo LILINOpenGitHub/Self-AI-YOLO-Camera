@@ -2,7 +2,7 @@
 
 The purpose of the site is for a developer, look for self-trained YOLO camera.  You are able to train Yolo V3 tiny AI model and upload it to LILIN 7 series AI IP camera.
 
-## What is Self-trained AI YOLO Camera
+## What is self-trained AI YOLO camera
 First visit LILIN AI Cloud [here](http://ai.meritlilin.com.tw:3380/) for Self-trained AI YOLO Camera.  Your YOLO weight/model can be converted at the cloud for the running of LILIN 7 series AI IP camera.
 
 ## Train your YOLO AI dataset
