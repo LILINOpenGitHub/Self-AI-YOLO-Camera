@@ -20,4 +20,4 @@ Your logo(32 * 32) (*.png) is optional. <BR>
   
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/conversion.jpg)
 ## License unlocking key
-![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/license.jpg)
+![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/license1.jpg)
