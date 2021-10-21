@@ -20,4 +20,5 @@ Your logo(32 * 32) (*.png) is optional. <BR>
   
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/conversion.jpg)
 ## License unlocking key
+Your valuable AI weight/model is protected by the license unlocking key.  You can enter this unlocking key via the camera for licensing purpose.
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/license1.jpg)
