@@ -16,7 +16,7 @@ Your YOLO object list file (*.names) is required. <BR>
 Your YOLO weights file (*.weights) is required. <BR>
 Your partial training images (*.jpg) are required. <BR>
 Your partial training corresponding labels (*.txt) are required. <BR>
-Your logo(32*32) (*.png) is optional. <BR>
+Your logo(32 * 32) (*.png) is optional. <BR>
   
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/conversion.jpg)
 ## License unlocking key
