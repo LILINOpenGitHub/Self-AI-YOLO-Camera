@@ -11,12 +11,12 @@ Please use this [CFG file](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camer
 ## Upload your YOLO weight/model
 After you have done the YOLO training for your dataset, upload these files:
 
-Your YOLO CFG file (*.cfg) is required.
-Your YOLO object list file (*.names) is required.
-Your YOLO weights file (*.weights) is required.
-Your partial training images (*.jpg) are required.
-Your partial training corresponding labels (*.txt) are required.
-Your logo(32*32) (*.png) is optional.
+Your YOLO CFG file (*.cfg) is required. <BR>
+Your YOLO object list file (*.names) is required. <BR>
+Your YOLO weights file (*.weights) is required. <BR>
+Your partial training images (*.jpg) are required. <BR>
+Your partial training corresponding labels (*.txt) are required. <BR>
+Your logo(32*32) (*.png) is optional. <BR>
 
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/conversion.jpg)
 ## License unlocking key
