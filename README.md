@@ -24,5 +24,9 @@ Your logo(32 * 32) (*.png) is optional. <BR>
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/license1.jpg)
   
 ## Weight/model encryption and protection
-Since your AI weight/model is an important intellective property for you or your company, the AI weight/model is encrypted and protected by AES256 for your AI weight.
+Since your AI weight/model is an important intellective property for you or your company, the AI weight/model is encrypted and protected by AES256 for your AI weight on LILIN AI cloud during the weight/model conversion.
+  
+## AI firmware encryption and protection
+Cyber security is an important topic for all the IoT products, unencrypted firmware can lead to injection of Trojan virus, to steal password, or to become a DDoS attacking device.  LILIN AI Cloud also produces the encrypted AI firmware running on LILIN 7 series camera. 
+
 
