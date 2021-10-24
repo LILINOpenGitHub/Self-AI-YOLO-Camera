@@ -21,8 +21,10 @@ Your logo(32 * 32) (*.png) is optional. <BR>
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/conversion.jpg)
 
 ## License unlocking key
+The purpose of the lincense unlocking key is to protect your AI model.  When your customer use the camera with your AI model, the customer has to enter the license key for unlocking purpose.
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/license1.jpg)
 
+## Firmware & AI model encryptions
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/pic10en.jpg)
   
 ## Weight/model encryption and protection for intellective property protection
