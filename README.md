@@ -28,6 +28,7 @@ The purpose of the lincense unlocking key is to protect your AI model.  When you
 ## Download the converted firmware
 After the cloud has finished the YOLO weight conversion for the camera, download the bin (firmware) file and upload to the IP camera.
 <BR>
+<BR>
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/pic04.jpg)
 ## Upload the converted firmware into the camera via firmware upgrade
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/pic03.jpg)
