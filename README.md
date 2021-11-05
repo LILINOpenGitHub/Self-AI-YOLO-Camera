@@ -31,6 +31,9 @@ After the cloud has finished the YOLO weight conversion for the camera, download
 <BR>
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/pic04.jpg)
 ## Upload the converted firmware into the camera via firmware upgrade
+Use LILIN IPScan software to find the camera and perform firmware upgrade.
+<BR>
+<BR>
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/pic03.jpg)
 ## Firmware & AI model encryptions
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/pic10en.jpg)
