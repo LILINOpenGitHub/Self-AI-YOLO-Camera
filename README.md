@@ -27,7 +27,7 @@ The purpose of the lincense unlocking key is to protect your AI model.  When you
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/license1.jpg)
 ## Download the converted firmware
 ## Upload the converted firmware into the camera via firmware upgrade
-![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/pic02.jpg)
+![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/pic03.jpg)
 ## Firmware & AI model encryptions
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/pic10en.jpg)
   
