@@ -26,6 +26,7 @@ Use this [Yolo weight](https://www.dropbox.com/sh/ono4g4yfbdje48n/AACV56MMq7jEgc
 The purpose of the lincense unlocking key is to protect your AI model.  When your customer use the camera with your AI model, the customer has to enter the license key for unlocking purpose.
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/license1.jpg)
 ## Download the converted firmware
+![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/pic04.jpg)
 ## Upload the converted firmware into the camera via firmware upgrade
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/pic03.jpg)
 ## Firmware & AI model encryptions
