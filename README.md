@@ -18,6 +18,8 @@ Your partial training images (*.jpg) are required. <BR>
 Your partial training corresponding labels (*.txt) are required. <BR>
 Your logo(32 * 32) (*.png) is optional. <BR>
 <BR>
+  
+## Give it a try
 Use this [Yolo weight](https://www.dropbox.com/sh/ono4g4yfbdje48n/AACV56MMq7jEgcl7fv0W726Oa?dl=0) for testing the AI cloud.
   
 ![image](https://github.com/LILINOpenGitHub/Self-AI-YOLO-Camera/blob/main/images/conversion.jpg)
