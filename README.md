@@ -48,7 +48,7 @@ Cyber security is an important topic for all the IoT products, unencrypted firmw
 
 ## How to train your model
 ### YOLO v3 tiny
-./darknet detector train data/GYNet_${PROJ}_Data_$VERSION.data cfg/GYNet_${PROJ}_CFG_$VERSION.cfg yolov3-tiny.conv.15 -map
+
 
 ### YOLO v7 tiny
 python train.py --workers 8 --device 0 \
