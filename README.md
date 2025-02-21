@@ -46,4 +46,20 @@ Since your AI weight/model is an important intellective property for you or your
 ## AI firmware encryption and protection for cyber security
 Cyber security is an important topic for all the IoT products, unencrypted firmware can lead to injection of Trojan virus, to steal password, or to become a DDoS attacking device.  LILIN AI Cloud also produces the encrypted AI firmware running on LILIN 7 series camera. 
 
+## How to train your model
+### YOLO v3 tiny
+# ./darknet detector train data/GYNet_${PROJ}_Data_$VERSION.data cfg/GYNet_${PROJ}_CFG_$VERSION.cfg yolov3-tiny.conv.15 -map
+
+### YOLO v7 tiny
+python train.py --workers 8 --device 0 \
+    --batch-size 64 \
+    --data data/traffic.yaml \
+    --img 640 640 \
+    --cfg cfg/training/traffic.yaml \
+    --weights "/yolov7/runs/train/traffic_v7-tiny_${VERSION}/weights/last.pt" \
+    --name "traffic_v7-tiny_${VERSION}" \
+    --hyp data/hyp.scratch.custom_traffic.yaml \
+    --epochs 300 \
+    --resume
+
 
